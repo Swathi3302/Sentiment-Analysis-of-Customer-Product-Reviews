@@ -1,0 +1,5 @@
+pandas
+nltk
+starlette
+uvicorn
+python-multipart
